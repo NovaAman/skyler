@@ -1978,7 +1978,7 @@ h1{
 
 
 #preloader{
-     background:#0000 url(./assets/loader.gif) non-repeat center center;
+     background:#0000 url(assets/loader.gif) non-repeat center center;
      height: 100vh;
      width:100%;
      position: fixed;
