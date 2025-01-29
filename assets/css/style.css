@@ -7,15 +7,6 @@
  */
 
 
-#preloader{
-     background:#000 url(assets/loader.gif) non-repeat center center;
-     height: 100vh;
-     width:100%;
-     position: fixed;
-     z-index: 100;
-     background-size: 15%;
-
-}
 
 
 
@@ -1983,3 +1974,15 @@ h1{
 #cyber{
   letter-spacing: 6px;
 }
+
+
+
+#preloader{
+     background:#0000 url(./assets/loader.gif) non-repeat center center;
+     height: 100vh;
+     width:100%;
+     position: fixed;
+     z-index: 100;
+     background-size: 15%;
+
+  }
