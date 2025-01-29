@@ -1979,6 +1979,8 @@ h1{
 
 #preloader{
      background:#0000;
+     justify-content: center;
+     align-items: center;
      
      height: 100vh;
      width:100%;
@@ -1986,3 +1988,8 @@ h1{
      z-index: 100;
 
   }
+
+#ld{
+  z-index:500;
+  
+}
